@@ -53,4 +53,4 @@ Write a query that finds the best employee.
 
 ### Task 5: 
 
-Answer the question: which table(s) are fact table(s) and which table(s) are dimension table(s)?
+Answer the question: Employee, Project, Task. Which table(s) could be considered fact table(s) and which table(s) could be considered dimension table(s)?
