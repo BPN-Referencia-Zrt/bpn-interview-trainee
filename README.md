@@ -11,7 +11,7 @@ First of all read the whole readme file and make sure you understand what is exp
 Follow this guide (step 1. and 2.) to create a Fabric Data Warehouse:
 https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-introduction
 
-Create test data in your warehouse by running the create_test_data.sql in the Data Warehouse Query Editor.
+Create test data in your warehouse by opening a new SQL query in the warehouse and running the contents of the create_test_data.sql file provided in this repository.
 
 ## Handing in your solution
 
