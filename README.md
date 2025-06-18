@@ -33,6 +33,8 @@ To do this, follow these steps:
 
 ## Tasks
 
+Write SQL queries to solve the following tasks. Each task should be in its own file in the Solution folder. The files should be named according to the task, e.g. task1.sql, task2.sql, etc.
+
 ### Task 1: 
 
 Find tasks that were due in the past 2 weeks.
